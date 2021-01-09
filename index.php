@@ -18,13 +18,12 @@
 
 			<div class="row">
 				<div class="botoes flex-column">
-					<a href="coordenador/index.php"><button class="btn btn-outline-danger">Coordenador</button></a>
-					<a href="orientador/index.php"><button class="btn btn-outline-primary">Orientadores</button></a>
-					<a href="aluno/index.php"><button class="btn btn-outline-success">Alunos</button></a>
-					<a href="banca/index.php"><button class="btn btn-outline-secondary">Banca</button></a>
+					<a href="http://localhost/BitProYoS/coordenador/login"><button class="btn btn-outline-danger">Coordenador</button></a>
+					<a href="http://localhost/BitProYoS/orientador/login"><button class="btn btn-outline-primary">Orientadores</button></a>
+					<a href="http://localhost/BitProYoS/aluno/login"><button class="btn btn-outline-success">Alunos</button></a>
+					<a href="http://localhost/BitProYoS/banca/login"><button class="btn btn-outline-secondary">Banca</button></a>
 				</div>
-
-
+				
 				<!--div class="botoes flex-column">
 					<a href="http://projeto.pc/coordenador/login"><button class="btn btn-outline-danger">Coordenador</button></a>
 					<a href="http://projeto.pc/orientador/login"><button class="btn btn-outline-primary">Orientadores</button></a>
