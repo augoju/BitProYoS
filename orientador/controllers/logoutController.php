@@ -6,7 +6,7 @@
 
 			$_SESSION['oLogin'] = "";
 			$_SESSION['oNome'] = "";
-			header('location: http://projeto.pc/');
+			header('location: http://localhost/BitProYoS/');
 			exit;
 
 		}

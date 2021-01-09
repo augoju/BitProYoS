@@ -6,7 +6,7 @@
 
 			$_SESSION['cLogin'] = "";
 			$_SESSION['cNome'] = "";
-			header('Location: http://projeto.pc/');
+			header('Location: http://localhost/BitProYoS/');
 			exit;
 
 		}

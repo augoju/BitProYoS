@@ -4,7 +4,7 @@
 $config = array();
 
 
-define("BASE_URL","http://projeto.pc/coordenador/");
+define("BASE_URL","http://localhost/BitProYoS/coordenador/");
 
 $config['dbname'] = "projeto";
 $config['host'] = "localhost";
@@ -17,5 +17,6 @@ try {
 	$db = new PDO("mysql:dbname=".$config['dbname'].";host=".$config['host'], $config['dbuser'], $config['dbpass']);
 
 } catch (PDOException $e) {
-	echo "Erro".$e->getMessage();
+	//echo "Erro".$e->getMessage();
+	echo "Connection";
 }

@@ -4,7 +4,7 @@
 $config = array();
 
 
-define("BASE_URL","http://projeto.pc/orientador/");
+define("BASE_URL","http://localhost/BitProYoS/orientador/");
 
 $config['dbname'] = "projeto";
 $config['host'] = "localhost";
